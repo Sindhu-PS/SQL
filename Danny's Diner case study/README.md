@@ -42,4 +42,4 @@ The final members table captures the join_date when a customer_id joined the bet
 
 
      
-![image](https://user-images.githubusercontent.com/125167502/225400296-6e8c3677-d621-4d82-934b-84048a414920.png)
+
